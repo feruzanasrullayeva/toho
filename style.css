@@ -1,0 +1,21 @@
+.home{
+    background-color: black;    
+}
+.text{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+.text1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 60px;
+}
+.video{
+    margin-left: 450px;
+}
+
+.photo{
+    margin-left: 500px;
+}
+
